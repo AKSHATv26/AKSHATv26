@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/akshat-verma-242a79254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1018?style=for-the-badge&logo=linkedin&logoColor=38d6ff&labelColor=05070b" alt="LinkedIn"></a>
-<a href="mailto:akshatverma26062004@gmail.com"><img src="https://img.shields.io/badge/Email-Transmit-0b1018?style=for-the-badge&logo=gmail&logoColor=e01e2b&labelColor=05070b" alt="Email"></a>
-<a href="resume/Akshat_Verma_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Download%20PDF-0b1018?style=for-the-badge&logo=readthedocs&logoColor=f7d774&labelColor=05070b" alt="Résumé"></a>
-<a href="blogs/README.md"><img src="https://img.shields.io/badge/Curiosity%20Series-Read%20the%20Essays-0b1018?style=for-the-badge&logo=bookstack&logoColor=f7d774&labelColor=05070b" alt="Essays"></a>
+<a href="mailto:akshatverma26062004@gmail.com"><img src="https://img.shields.io/badge/Email-Transmit-0b1018?style=for-the-badge&logo=gmail&logoColor=38d6ff&labelColor=05070b" alt="Email"></a>
+<a href="resume/Akshat_Verma_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Download%20PDF-0b1018?style=for-the-badge&logo=readthedocs&logoColor=9fe3ff&labelColor=05070b" alt="Résumé"></a>
+<a href="blogs/README.md"><img src="https://img.shields.io/badge/Curiosity%20Series-Read%20the%20Essays-0b1018?style=for-the-badge&logo=bookstack&logoColor=9fe3ff&labelColor=05070b" alt="Essays"></a>
 <img src="https://img.shields.io/badge/Base-Delhi--NCR%2C%20India-0b1018?style=for-the-badge&logo=googlemaps&logoColor=38d6ff&labelColor=05070b" alt="Location">
 </p>
 <p align="center"><img src="assets/typing.svg" width="760" alt="Build · Learn · Improve · Repeat"></p>
@@ -28,12 +28,16 @@ I combine software and machine-learning engineering with AI product management a
 
 ## 🛡️ Armoury: featured projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[LIFELONG Mission Sentinel](https://github.com/AKSHATv26/LIFELONG-MISSION-SENTINEL)** | A life-management app with a military-style interface. It tracks habits ("protocols"), prioritised tasks ("missions"), training, study and reflections, with analytics and audio feedback. | React · TypeScript · Tailwind CSS · Express |
-| **[OpsPulse Dashboard](https://github.com/AKSHATv26/OpsPulse-Dashboard)** | A low-code operations dashboard for managing employees, projects and assignments. It has four modular pages and uses Google Sheets as the backend. | Appsmith · Google Sheets · JavaScript |
-| **[WeSafe](https://github.com/AKSHATv26/WeSafe)** | The front end of a human-safety platform: SOS entry point, safety tips, sign-up and login. An academic project for a team of two; I led the front end. | HTML · CSS |
-| **[E-Blood Bank](https://github.com/AKSHATv26/Blood-Chain-Supply-Management-System)** | A donor–recipient blood bank web app: donate and request flows, OTP verification screens, profile and payment pages. | HTML · CSS · JavaScript |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/AKSHATv26/LIFELONG-MISSION-SENTINEL"><img src="assets/projects/sentinel.jpg" width="100%" alt="LIFELONG · Mission Sentinel"></a><h3><a href="https://github.com/AKSHATv26/LIFELONG-MISSION-SENTINEL">LIFELONG · Mission Sentinel</a></h3><p>A full-stack life-management app with a tactical HUD. It tracks habits, prioritised missions, training, study and reflections, and turns them into analytics with audio feedback.</p><p><code>React · TypeScript · Tailwind · Express</code></p></td>
+<td width="50%" valign="top"><a href="https://github.com/AKSHATv26/OpsPulse-Dashboard"><img src="assets/projects/opspulse.jpg" width="100%" alt="OpsPulse Dashboard"></a><h3><a href="https://github.com/AKSHATv26/OpsPulse-Dashboard">OpsPulse Dashboard</a></h3><p>A low-code operations dashboard for employees, projects and assignments. It has four modular pages and uses Google Sheets as a live backend.</p><p><code>Appsmith · Google Sheets · JavaScript</code></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/AKSHATv26/WeSafe"><img src="assets/projects/wesafe.jpg" width="100%" alt="WeSafe"></a><h3><a href="https://github.com/AKSHATv26/WeSafe">WeSafe</a></h3><p>The front end of a human-safety platform: SOS entry point, safety tips, sign-up and login. An academic project for a team of two; I led the front end.</p><p><code>HTML · CSS</code></p></td>
+<td width="50%" valign="top"><a href="https://github.com/AKSHATv26/Blood-Chain-Supply-Management-System"><img src="assets/projects/eblood.jpg" width="100%" alt="E-Blood Bank"></a><h3><a href="https://github.com/AKSHATv26/Blood-Chain-Supply-Management-System">E-Blood Bank</a></h3><p>A donor–recipient blood bank web app with donate and request flows, OTP verification screens, a profile and a payment page.</p><p><code>HTML · CSS · JavaScript</code></p></td>
+</tr>
+</table>
 
 > **Professional work.** My work at CredgeSol.ai and Global Infoventures belongs to those companies and isn't published here. I describe it only at the level shown publicly on [LinkedIn](https://www.linkedin.com/in/akshat-verma-242a79254/).
 
@@ -101,4 +105,6 @@ Also: [*The Flow of Mind and Cosmos*](blogs/R2-the-flow-of-mind-and-cosmos.pdf),
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-<p align="center"><img src="https://img.shields.io/badge/STATUS-MISSION%20ACTIVE-e01e2b?style=for-the-badge&labelColor=05070b" alt="Status"> <img src="https://img.shields.io/badge/DISCIPLINE%20BY%20SOUL-DRIVEN%20BY%20PURPOSE-c8962c?style=for-the-badge&labelColor=05070b" alt="Motto"></p>
+<p align="center"><img src="assets/lion-signature.png" width="300" alt="Lion emblem and signature of Akshat Verma"></p>
+
+<p align="center"><img src="https://img.shields.io/badge/STATUS-MISSION%20ACTIVE-1e5bff?style=for-the-badge&labelColor=05070b" alt="Status"> <img src="https://img.shields.io/badge/DISCIPLINE%20BY%20SOUL-DRIVEN%20BY%20PURPOSE-38d6ff?style=for-the-badge&labelColor=05070b" alt="Motto"></p>
