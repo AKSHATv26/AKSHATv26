@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" width="100%" alt="Akshat Verma: AI Product Manager · AI Governance & Risk · Software & AI Engineering"></p>
+<p align="center"><img src="assets/linkedin-banner.png" width="100%" alt="Akshat Verma: AI Product Manager · AI Governance & Risk · Software & AI Engineering"></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/akshat-verma-242a79254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1018?style=for-the-badge&logo=linkedin&logoColor=38d6ff&labelColor=05070b" alt="LinkedIn"></a>
