@@ -49,8 +49,8 @@
     <text x="380" y="92" class="t" font-size="15" letter-spacing="6" fill="#38d6ff">// IDENTITY CONFIRMED<tspan class="blink"> ▌</tspan></text>
     <text x="378" y="160" class="t" font-size="64" font-weight="800" letter-spacing="3" fill="#ffffff">AKSHAT VERMA</text>
     <rect x="380" y="178" width="120" height="5" fill="url(#red)"/><rect x="506" y="178" width="40" height="5" fill="url(#gold)"/>
-    <text x="380" y="216" class="t" font-size="20" font-weight="600" letter-spacing="1.5" fill="url(#gold)">AI PRODUCT MANAGER · AI GOVERNANCE &amp; RISK · SOFTWARE &amp; AI ENGINEERING</text>
-    <text x="380" y="252" class="t" font-size="15" letter-spacing="3" fill="#8b9bb0">ENTERPRISE AI · DECISION ASSURANCE · RESPONSIBLE AI · FULL-STACK &amp; ML SYSTEMS</text>
+    <text x="380" y="216" class="t" font-size="17" font-weight="600" letter-spacing="1" fill="url(#gold)">AI PRODUCT MANAGER · AI GOVERNANCE &amp; RISK · SOFTWARE &amp; AI ENGINEERING</text>
+    <text x="380" y="252" class="t" font-size="14" letter-spacing="2.2" fill="#8b9bb0">ENTERPRISE AI · DECISION ASSURANCE · RESPONSIBLE AI · FULL-STACK &amp; ML SYSTEMS</text>
     <text x="380" y="296" class="t" font-size="14" font-weight="700" letter-spacing="5" fill="#e01e2b">DISCIPLINE BY SOUL · DRIVEN BY PURPOSE</text>
   </g>
   <rect x="1" y="1" width="1198" height="338" rx="18" fill="none" stroke="#1f3247" stroke-width="2"/>
