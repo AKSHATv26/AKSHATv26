@@ -1,20 +1,14 @@
-<div align="center">
+<p align="center"><img src="assets/banner.svg" width="100%" alt="Akshat Verma: AI Product Manager · AI Governance & Risk · Software & AI Engineering"></p>
 
-# Akshat Verma
+<p align="center">
+<a href="https://www.linkedin.com/in/akshat-verma-242a79254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1018?style=for-the-badge&logo=linkedin&logoColor=38d6ff&labelColor=05070b" alt="LinkedIn"></a>
+<a href="mailto:akshatverma26062004@gmail.com"><img src="https://img.shields.io/badge/Email-Transmit-0b1018?style=for-the-badge&logo=gmail&logoColor=e01e2b&labelColor=05070b" alt="Email"></a>
+<a href="blogs/README.md"><img src="https://img.shields.io/badge/Curiosity%20Series-Read%20the%20Essays-0b1018?style=for-the-badge&logo=bookstack&logoColor=f7d774&labelColor=05070b" alt="Essays"></a>
+<img src="https://img.shields.io/badge/Base-Delhi--NCR%2C%20India-0b1018?style=for-the-badge&logo=googlemaps&logoColor=38d6ff&labelColor=05070b" alt="Location">
+</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-**AI Product Manager · AI Governance & Risk · Software and AI Engineering**
-
-Enterprise AI · Decision assurance · Responsible AI · Full-stack and machine-learning systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat--verma-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-verma-242a79254/)
-[![Email](https://img.shields.io/badge/Email-akshatverma26062004%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:akshatverma26062004@gmail.com)
-![Location](https://img.shields.io/badge/Based%20in-Delhi--NCR%2C%20India-555)
-
-</div>
-
----
-
-### About me
+## ⚡ Mission brief
 
 I combine software and machine-learning engineering with AI product management and standards-based AI governance.
 
@@ -25,9 +19,9 @@ I combine software and machine-learning engineering with AI product management a
 - ✍️ **Writing:** *The Curiosity Series*, research essays built on one method: **claim → evidence → mechanism → boundary → conclusion**.
 - 🎓 **Education:** B.Tech in Information Technology, ABES Institute of Technology (2022–2026).
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-### Featured projects
+## 🛡️ Armoury: featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -40,9 +34,9 @@ I combine software and machine-learning engineering with AI product management a
 
 > **Professional work.** My work at CredgeSol.ai and Global Infoventures belongs to those companies and isn't published here. I describe it only at the level shown publicly on [LinkedIn](https://www.linkedin.com/in/akshat-verma-242a79254/).
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-### ✍️ The Curiosity Series: read the essays
+## 📡 Intel files: The Curiosity Series
 
 Each essay is a short PDF you can read right here on GitHub.
 
@@ -69,13 +63,13 @@ Each essay is a short PDF you can read right here on GitHub.
 
 Also: [*The Flow of Mind and Cosmos*](blogs/R2-the-flow-of-mind-and-cosmos.pdf), a symbolic framework linking cognition and cosmos. The full list is in the [blogs index](blogs/README.md).
 
-**Research and talks**
+### 🎙️ Field operations: research and talks
 - **ETCA-2026, ABES Institute of Technology (Feb 2026):** presented *Digital Heritage Web App: An AI-Driven Digital Heritage Platform for Structured Knowledge and Cultural e-commerce*, built for Smart India Hackathon problem SIH25130 with a team of five.
 - **India Mobile Congress 2026 (New Delhi):** on the CredgeSol AI booth team (AI-103), where the Credge Clarity Engine was demonstrated.
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-### 🏅 Certifications
+## 🎖️ Honours and credentials
 
 | Certification | Issuer | Credential |
 |---|---|---|
@@ -88,9 +82,9 @@ Also: [*The Flow of Mind and Cosmos*](blogs/R2-the-flow-of-mind-and-cosmos.pdf),
 | Java Programming | See certificate | [View](certificates/java-programming.jpg) |
 | Front End Web Development Using React (40 h) | ABESIT · Dec 2024 | [View](certificates/react-frontend-development.jpg) |
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-### 🧰 Tech I work with
+## 🔧 Arsenal: tech I work with
 
 **Languages:** Python · Java · TypeScript · JavaScript · SQL · C<br>
 **Web and backend:** React · Next.js · Node.js / Express · Spring Boot · FastAPI · REST APIs<br>
@@ -99,11 +93,9 @@ Also: [*The Flow of Mind and Cosmos*](blogs/R2-the-flow-of-mind-and-cosmos.pdf),
 **Low-code and product:** Appsmith · UI Bakery · Hex · requirements engineering · AI governance (ISO/IEC 42001, 23894, NIST AI RMF)
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,nodejs,express,spring,postgres,mysql,supabase,docker,aws,linux,pytorch,tensorflow,opencv,git,github&perline=10" alt="Tech icons">
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,nodejs,express,spring,postgres,mysql,supabase,docker,aws,linux,pytorch,tensorflow,opencv,git,github&perline=10&theme=dark" alt="Tech icons">
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-<div align="center">
-<sub>Discipline by soul, driven by purpose.</sub>
-</div>
+<p align="center"><img src="https://img.shields.io/badge/STATUS-MISSION%20ACTIVE-e01e2b?style=for-the-badge&labelColor=05070b" alt="Status"> <img src="https://img.shields.io/badge/DISCIPLINE%20BY%20SOUL-DRIVEN%20BY%20PURPOSE-c8962c?style=for-the-badge&labelColor=05070b" alt="Motto"></p>
