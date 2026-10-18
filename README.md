@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/akshat-verma-242a79254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1018?style=for-the-badge&logo=linkedin&logoColor=38d6ff&labelColor=05070b" alt="LinkedIn"></a>
 <a href="mailto:akshatverma26062004@gmail.com"><img src="https://img.shields.io/badge/Email-Transmit-0b1018?style=for-the-badge&logo=gmail&logoColor=e01e2b&labelColor=05070b" alt="Email"></a>
+<a href="resume/Akshat_Verma_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Download%20PDF-0b1018?style=for-the-badge&logo=readthedocs&logoColor=f7d774&labelColor=05070b" alt="Résumé"></a>
 <a href="blogs/README.md"><img src="https://img.shields.io/badge/Curiosity%20Series-Read%20the%20Essays-0b1018?style=for-the-badge&logo=bookstack&logoColor=f7d774&labelColor=05070b" alt="Essays"></a>
 <img src="https://img.shields.io/badge/Base-Delhi--NCR%2C%20India-0b1018?style=for-the-badge&logo=googlemaps&logoColor=38d6ff&labelColor=05070b" alt="Location">
 </p>
@@ -29,8 +30,6 @@ I combine software and machine-learning engineering with AI product management a
 | **[OpsPulse Dashboard](https://github.com/AKSHATv26/OpsPulse-Dashboard)** | A low-code operations dashboard for managing employees, projects and assignments. It has four modular pages and uses Google Sheets as the backend. | Appsmith · Google Sheets · JavaScript |
 | **[WeSafe](https://github.com/AKSHATv26/WeSafe)** | The front end of a human-safety platform: SOS entry point, safety tips, sign-up and login. An academic project for a team of two; I led the front end. | HTML · CSS |
 | **[E-Blood Bank](https://github.com/AKSHATv26/Blood-Chain-Supply-Management-System)** | A donor–recipient blood bank web app: donate and request flows, OTP verification screens, profile and payment pages. | HTML · CSS · JavaScript |
-| **[SnakeGame](https://github.com/AKSHATv26/SnakeGame)** | A desktop Snake game in Java Swing, with colour upgrades as the score climbs. | Java |
-| **[Portfolio site](https://github.com/AKSHATv26/Myportfolio)** | My personal developer portfolio ([live](https://myportfolioav.gt.tc/)). | React · Vite · Tailwind CSS |
 
 > **Professional work.** My work at CredgeSol.ai and Global Infoventures belongs to those companies and isn't published here. I describe it only at the level shown publicly on [LinkedIn](https://www.linkedin.com/in/akshat-verma-242a79254/).
 
