@@ -7,9 +7,13 @@
 <a href="blogs/README.md"><img src="https://img.shields.io/badge/Curiosity%20Series-Read%20the%20Essays-0b1018?style=for-the-badge&logo=bookstack&logoColor=f7d774&labelColor=05070b" alt="Essays"></a>
 <img src="https://img.shields.io/badge/Base-Delhi--NCR%2C%20India-0b1018?style=for-the-badge&logo=googlemaps&logoColor=38d6ff&labelColor=05070b" alt="Location">
 </p>
+<p align="center"><img src="assets/typing.svg" width="760" alt="Build · Learn · Improve · Repeat"></p>
+
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## ⚡ Mission brief
+
+<img align="right" width="300" src="assets/hero.png" alt="Illustration of Akshat at his night-shift coding desk">
 
 I combine software and machine-learning engineering with AI product management and standards-based AI governance.
 
